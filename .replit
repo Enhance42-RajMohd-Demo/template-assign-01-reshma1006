@@ -1,2 +1,2 @@
 language = "python3"
-run="python 02_is_prime.py"
+run="python 00_run_this.py"
