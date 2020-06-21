@@ -1,2 +1,2 @@
 language = "python3"
-run="python 01_is_odd.py"
+run="python 02_is_prime.py"
