@@ -17,9 +17,12 @@ import unittest
 # Return the output, No need read input or print the ouput
 
 
-def is_odd(n):
-    pass
+number = int(input("Type a whole number please ") )
 
+if number % 2 == 0 :
+    print("Your number is even!" )    
+else:
+    print("Your number is odd!" )    
 
 # DO NOT TOUCH THE BELOW CODE
 class TestIsOdd(unittest.TestCase):
